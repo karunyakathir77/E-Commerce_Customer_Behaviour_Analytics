@@ -33,7 +33,7 @@ Analyzing this data provides actionable insights into customer behavior, sales p
 * Correlation between delivery days & review scores
 * Customer churn rate and revenue rank by state
 * Popular Product Category by Quarter
-
+------------------------------------------------------------------------------------------------------------------
 ### Python Analysis
 
 **Libraries Used:** Pandas, Matplotlib, Seaborn
