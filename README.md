@@ -55,7 +55,6 @@ Analyzing this data provides actionable insights into customer behavior, sales p
 
 **Link:**
 **Power BI Dashboard: *[Olist_Business_Performance_Dashboard](https://drive.google.com/drive/folders/1FZOpgvmjpT_275h3RbOeugZj5rIXuOU0?usp=sharing)***
-![Power BI Dashboard](olist_brazil_BI_dashboard.png)
 **Methods Used:**
 * Removed unnecessary columns
 * Created calculated columns and DAX measures
