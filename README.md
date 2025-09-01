@@ -1,4 +1,4 @@
-# E-Commerce_Customer_Analytics_Project
+<img width="1167" height="795" alt="image" src="https://github.com/user-attachments/assets/768435d1-b665-424c-a2f2-5636314911bc" /># E-Commerce_Customer_Analytics_Project
 
 ## Introduction
 This project focuses on the **Olist Brazilian E-Commerce Public Dataset** to understand patterns in payments, orders, product categories, customers, sellers, and deliveries. The goal is to evaluate business performance using SQL, Python, and Power BI and to highlight key factors driving revenue and customer satisfaction. 
@@ -55,7 +55,7 @@ Analyzing this data provides actionable insights into customer behavior, sales p
 
 **Link:**
 **Power BI Dashboard: *[Olist_Business_Performance_Dashboard](https://drive.google.com/drive/folders/1FZOpgvmjpT_275h3RbOeugZj5rIXuOU0?usp=sharing)***
-
+![Power BI Dashboard](olist_brazil_BI_dashboard.png)
 **Methods Used:**
 * Removed unnecessary columns
 * Created calculated columns and DAX measures
