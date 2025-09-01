@@ -10,3 +10,11 @@
 * Created calculated columns and DAX measures
 * Used slicers and interactive visuals
 * Built both desktop and mobile dashboards
+
+**Key Analyses:**
+* Delivery status distribution
+* Top 10 states and products by revenue
+* Orders by review score
+* Revenue & orders by quarter
+* Customers by state
+* Average review scores vs delivery times
