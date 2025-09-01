@@ -7,6 +7,8 @@
 
 **Key Analyses:**
 * Distribution of payments & order values
+* Count of unique Customers, Sellers
+* Repeat Customers
 * Payment mode by average payment value
 * Top 10 customers, sellers, and product categories by revenue and sales
 * Orders by month, year, and state
