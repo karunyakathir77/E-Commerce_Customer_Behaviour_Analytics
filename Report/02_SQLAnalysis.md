@@ -20,4 +20,4 @@
 * Popular Product Category by Quarter
 
 **Document:**
-[SQL Analysis Document](Olist_SQL_Analysis.pdf)
+[SQL Analysis Document](Other_Files/Olist_SQL_Analysis.pdf)
