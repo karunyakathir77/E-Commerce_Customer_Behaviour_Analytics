@@ -18,3 +18,6 @@
 * Correlation between delivery days & review scores
 * Customer churn rate and revenue rank by state
 * Popular Product Category by Quarter
+
+**Document:**
+[SQL Analysis Document](Olist_SQL_Analysis.pdf)
